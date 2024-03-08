@@ -1,0 +1,23 @@
+#gameControl{
+    background-color:aqua;
+    padding:20px;
+}
+#startGame{
+    padding:5px;
+}
+#game{
+    background-color:red;
+    padding:20px;
+}
+#actions{
+    background-color:azure;
+    padding:20px;
+}
+#score{
+    background-color:bisque;
+    padding:20px;
+}
+#imgDice{
+    max-width:50px;
+    max-height:50px;
+}
